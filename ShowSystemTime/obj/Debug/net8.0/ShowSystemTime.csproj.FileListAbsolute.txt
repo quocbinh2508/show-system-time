@@ -1,0 +1,14 @@
+D:\Hoc Code Game\Show System Time\ShowSystemTime\ShowSystemTime\obj\Debug\net8.0\ShowSystemTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoc Code Game\Show System Time\ShowSystemTime\ShowSystemTime\obj\Debug\net8.0\ShowSystemTime.AssemblyInfoInputs.cache
+D:\Hoc Code Game\Show System Time\ShowSystemTime\ShowSystemTime\obj\Debug\net8.0\ShowSystemTime.AssemblyInfo.cs
+D:\Hoc Code Game\Show System Time\ShowSystemTime\ShowSystemTime\obj\Debug\net8.0\ShowSystemTime.csproj.CoreCompileInputs.cache
+D:\Hoc Code Game\Show System Time\ShowSystemTime\ShowSystemTime\bin\Debug\net8.0\ShowSystemTime.exe
+D:\Hoc Code Game\Show System Time\ShowSystemTime\ShowSystemTime\bin\Debug\net8.0\ShowSystemTime.deps.json
+D:\Hoc Code Game\Show System Time\ShowSystemTime\ShowSystemTime\bin\Debug\net8.0\ShowSystemTime.runtimeconfig.json
+D:\Hoc Code Game\Show System Time\ShowSystemTime\ShowSystemTime\bin\Debug\net8.0\ShowSystemTime.dll
+D:\Hoc Code Game\Show System Time\ShowSystemTime\ShowSystemTime\bin\Debug\net8.0\ShowSystemTime.pdb
+D:\Hoc Code Game\Show System Time\ShowSystemTime\ShowSystemTime\obj\Debug\net8.0\ShowSystemTime.dll
+D:\Hoc Code Game\Show System Time\ShowSystemTime\ShowSystemTime\obj\Debug\net8.0\refint\ShowSystemTime.dll
+D:\Hoc Code Game\Show System Time\ShowSystemTime\ShowSystemTime\obj\Debug\net8.0\ShowSystemTime.pdb
+D:\Hoc Code Game\Show System Time\ShowSystemTime\ShowSystemTime\obj\Debug\net8.0\ShowSystemTime.genruntimeconfig.cache
+D:\Hoc Code Game\Show System Time\ShowSystemTime\ShowSystemTime\obj\Debug\net8.0\ref\ShowSystemTime.dll

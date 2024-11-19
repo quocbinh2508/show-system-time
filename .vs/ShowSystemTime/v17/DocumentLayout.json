@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hoc Code Game\\Show System Time\\ShowSystemTime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED039BA3-A6D1-4B1E-8636-589FCA3EC08A}|ShowSystemTime\\ShowSystemTime.csproj|d:\\hoc code game\\show system time\\showsystemtime\\showsystemtime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED039BA3-A6D1-4B1E-8636-589FCA3EC08A}|ShowSystemTime\\ShowSystemTime.csproj|solutionrelative:showsystemtime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hoc Code Game\\Show System Time\\ShowSystemTime\\ShowSystemTime\\Program.cs",
+              "RelativeDocumentMoniker": "ShowSystemTime\\Program.cs",
+              "ToolTip": "D:\\Hoc Code Game\\Show System Time\\ShowSystemTime\\ShowSystemTime\\Program.cs",
+              "RelativeToolTip": "ShowSystemTime\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T15:03:52.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
